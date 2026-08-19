@@ -1,0 +1,21 @@
+footer{
+    display:flex;
+}
+a{
+    color:#777;
+    display:block;
+    font-size:0.9rem;
+    padding:5px 0px;
+}
+.row{
+    display:flex;
+    padding:0px 70px;
+}
+.col{
+    padding:0px 50px;
+
+}
+h2{
+    font-size:1.2rem;
+    padding:0px 40px 0px 0px;
+}
